@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cómo aceptar pagos con criptomonedas en mi e-commerce?</title>
+    <link>https://www.prestashop.com/es/blog/pagos-con-criptomonedas-ecommerce</link>
+    <description>Aceptar pagos con criptomonedas ya no es el futuro sino el presente del e-commerce.</description>
+     <pubDate>Mon, 27 Feb 2023 11:52:42 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/pagos-con-criptomonedas-ecommerce</guid>
+  </item>
+  <item>
+    <title>Clim Profesional, un e-commerce especialista en productos de  limpieza profesional</title>
+    <link>https://www.prestashop.com/es/blog/clim-profesional-un-e-commerce-especialista-en-productos-de-limpieza-profesional</link>
+    <description>Hoy te traemos el caso de éxito de Clim Profesional, una tienda on</description>
+     <pubDate>Tue, 21 Feb 2023 10:21:43 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/clim-profesional-un-e-commerce-especialista-en-productos-de-limpieza-profesional</guid>
+  </item>
+  <item>
+    <title>¿El comercio omnicanal ha llegado para quedarse?</title>
+    <link>https://www.prestashop.com/es/blog/omnicanal-square</link>
+    <description>Los años 2020-2022 no fueron nada fáciles para las tiendas tradicionales: además de verse en muchos casos obligadas a cerrar durante más de medio año, cuando pudieron volver a abrir se enfrentaron </description>
+     <pubDate>Fri, 03 Feb 2023 10:13:59 +0100</pubDate>
+ <dc:creator>Fergal Delaney</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/omnicanal-square</guid>
+  </item>
+  <item>
+    <title>Cómo preparar su empresa para el futuro gracias a la logística</title>
+    <link>https://www.prestashop.com/es/blog/huboo-fulfilment</link>
+    <description>Se calcula que el almacenamiento y los envíos representan hasta el 20% de los gastos totales de las empresas de comercio electrónico.</description>
+     <pubDate>Wed, 01 Feb 2023 11:06:40 +0100</pubDate>
+ <dc:creator>Josie Andrew</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/huboo-fulfilment</guid>
+  </item>
+  <item>
+    <title>Guía básica sobre la gestión de stock de un e-commerce</title>
+    <link>https://www.prestashop.com/es/blog/gestion-de-stock-ecommerce</link>
+    <description>Hay muchos factores que pueden influir en la experiencia del usuario que ofreces en tu e-commerce.</description>
+     <pubDate>Wed, 01 Feb 2023 10:58:37 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gestion-de-stock-ecommerce</guid>
+  </item>
+  <item>
+    <title>As de Carreaux y PrestaShop: una tienda online que no deja indiferente</title>
+    <link>https://www.prestashop.com/es/blog/as-de-carreaux-tienda-online</link>
+    <description>As de Carreaux es actualmente el líder francés de la venta de azulejos online, con la mayor variedad de azulejos en </description>
+     <pubDate>Tue, 31 Jan 2023 14:56:07 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/as-de-carreaux-tienda-online</guid>
+  </item>
+  <item>
+    <title>¿Qué es el brand awareness y cómo puedes trabajar y aumentar el de tu e-commerce?</title>
+    <link>https://www.prestashop.com/es/blog/brand-awareness</link>
+    <description>En ocasiones, basta con ver el logo o un color concreto para saber de qué empresa se trata. Pero no solo eso, también la asociamos con ciertos valores o sentimientos.</description>
+     <pubDate>Mon, 30 Jan 2023 10:49:37 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/brand-awareness</guid>
+  </item>
+  <item>
+    <title>Business Case: Ciclos Cabello creciendo en el canal online con PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/ciclos-cabello</link>
+    <description>Hoy te presentamos el proyecto de Ciclos Cabello, un comercio electrónico especializado en ciclismo que ha experimentado una brutal evol</description>
+     <pubDate>Thu, 26 Jan 2023 10:45:47 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ciclos-cabello</guid>
+  </item>
+  <item>
+    <title>Añadir soluciones de pago es positivo para tus conversiones </title>
+    <link>https://www.prestashop.com/es/blog/utilizar-metodos-pago-distintos</link>
+    <description>La elección de una solución de pago es determinante para el éxito de un sitio web e-commerce.</description>
+     <pubDate>Thu, 26 Jan 2023 10:32:33 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/utilizar-metodos-pago-distintos</guid>
+  </item>
+  <item>
+    <title>10 errores más comunes en los embudos de venta de los e-commerces (y cómo solucionarlos)</title>
+    <link>https://www.prestashop.com/es/blog/errores-embudos-de-venta</link>
+    <description>Miles de usuarios llegan a tu tienda online, pero no terminan comprando. Ni siquiera un pequeño porcentaje.</description>
+     <pubDate>Thu, 12 Jan 2023 14:56:46 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/errores-embudos-de-venta</guid>
+  </item>
+  </channel>
+</rss>

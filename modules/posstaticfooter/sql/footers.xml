@@ -1,0 +1,244 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>about_us</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>copyright_block</identify>
+		<hook_position>displayFooterAfter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>static1_footer</identify>
+		<hook_position>displayBlockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>staticblock_link_footer</identify>
+		<hook_position>displayBlockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Contact Us</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-md-12 col-lg-6 footer-block">
+				<div class="footer_logo"><img src="/pos_boxstore/img/cms/logo_footer.png" alt="" class="img-responsive" />
+				<p class="info">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum ...</p>
+				</div>
+				<div class="des">
+				<p class="text1"><span>Address: </span>123 Main Street, Anytown, CA 12345 - USA.</p>
+				<p class="text2"><span>Phone: </span> (012) 800 456 789-987</p>
+				<p class="text3"><span>Email: </span> Demo@posthemes.com</p>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Copyright Block</title>
+		<description>
+			 <![CDATA[
+				<div class="row">
+				<div class=" col-lg-6 col-md-12 col-xs-12 box1">
+				<div class="copyright ">Copyright @ 2020 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</div>
+				</div>
+				<div class="col-lg-6 col-md-12 col-xs-12 box2">
+				<div class="paypen"><a href="#"> <img src="/pos_boxstore/img/cms/paypen.png" alt="" class="img-responsive" /> </a></div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>static1 footer</title>
+		<description>
+			 <![CDATA[
+				<div class="link">
+				<h3>Follow Us</h3>
+				<ul class="link-follow">
+				<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/posthemes"><span>twitter</span></a></li>
+				<li><a class="wifi fa fa-rss" title="Google" href="#"><span>wifi</span></a></li>
+				<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google</span></a></li>
+				<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/posthemes"><span>facebook</span></a></li>
+				<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/posthemes"><span>youtube </span></a></li>
+				<li><a class="instagram fa fa-instagram" title="Youtube" href="#"><span>instagram </span></a></li>
+				</ul>
+				<div class="App_google">
+				<h3>Download Apps</h3>
+				<div class="goole"><img src="/pos_boxstore/img/cms/google.png" alt="" class="img-responsive" /></div>
+				<div class="app"><img src="/pos_boxstore/img/cms/appstore.png" alt="" class="img-responsive" /></div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock Link Footer</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-link">
+				<div class="row">
+				<div class="col col-sm-6 col-xs-12 box1">
+				<div class="ullink links1"><span>Computer:</span> <a href="#">Laptops,</a> <a href="#">Television & Video,</a> <a href="#">Macbook & PC, </a> <a href="#">Computers Accessories,</a> <a href="#">Sony,</a> <a href="#">Subway,</a> <a href="#">Tempor,</a> <a href="#">Tissot,</a> <a href="#">Topper.</a></div>
+				<div class="ullink links2"><span>TVs, Audio & Video:</span> <a href="#">Televisions,</a> <a href="#">Smart Television</a> <a href="#">Samsung Television</a> <a href="#">Headphone,</a> <a href="#">HD,</a> <a href="#">Computers,</a> <a href="#">Dell Laptop,</a> <a href="#">Asus Laptop,</a> <a href="#">HP Laptop.</a></div>
+				<div class="ullink links3"><span>Tablets:</span> <a href="#">Apple iPads,</a> <a href="#">Samsung Tablet,</a> <a href="#">Samsung Television</a> <a href="#">Swipe Tablets,</a> <a href="#"> Asus Tablets,</a> <a href="#">Lenovo Tablet,</a> <a href="#">Calling Tablets,</a> <a href="#">Asus Laptop,</a> <a href="#">iBall Tablets.</a></div>
+				<div class="ullink links4"><span>Smartphone:</span> <a href="#">HTC Mobiles,</a> <a href="#">iPhones,</a> <a href="#"> Gionee Mobiles,</a> <a href="#">LG Mobiles,</a> <a href="#"> Karbonn Mobiles,</a> <a href="#">Vivo Mobiles,</a> <a href="#">Intex Mobiles,</a> <a href="#">Asus Mobiles,</a> <a href="#"> Samsung Mobiles.</a></div>
+				</div>
+				<div class="col col-sm-6 col-xs-12 box2">
+				<div class="ullink links1"><span>Camaeras:</span> <a href="#">SLR Cameras,</a> <a href="#">Canon Cameras,</a> <a href="#">Apple Cameras, </a> <a href="#">Nikon DSLR Cameras,</a> <a href="#">Sony Cameras,</a> <a href="#">Digital Cameras,</a> <a href="#">Panasonic Cameras,</a> <a href="#">Samsung Cameras.</a></div>
+				<div class="ullink links2"><span>Whatches:</span> <a href="#">Mens Watches,</a> <a href="#">Casio Watches,</a> <a href="#">Titan Watches,</a> <a href="#">Fastrack ,</a> <a href="#">Watches,</a> <a href="#">Fossil watches,</a> <a href="#">Casio Edifice,</a> <a href="#">Sissot Watches.</a></div>
+				<div class="ullink links3"><span>Appliances:</span> <a href="#"> Air Conditioners,</a> <a href="#">Air Coolers, Refrigerators,</a> <a href="#">Fans,</a> <a href="#">Washing Machines,</a> <a href="#">Inverters & Stabilizers,</a> <a href="#">Mircowaves,</a> <a href="#">Irons,</a> <a href="#">Irons,</a> <a href="#">Shavers.</a></div>
+				<div class="ullink links4"><span>Mobiles Accessories:</span> <a href="#">Mobile Covers,</a> <a href="#">Power Banks,</a> <a href="#">Samsung Power Banks,</a> <a href="#">Micromax Power Banks,</a> <a href="#">Asus Power Banks,</a> <a href="#">Micromax Power Banks,</a> <a href="#">Asus Power Banks.</a></div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Contact Us</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-md-12 col-lg-6 footer-block">
+				<div class="footer_logo"><img src="/pos_boxstore/img/cms/logo_footer.png" alt="" class="img-responsive" />
+				<p class="info">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum ...</p>
+				</div>
+				<div class="des">
+				<p class="text1"><span>Address: </span>123 Main Street, Anytown, CA 12345 - USA.</p>
+				<p class="text2"><span>Phone: </span> (012) 800 456 789-987</p>
+				<p class="text3"><span>Email: </span> Demo@posthemes.com</p>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Copyright Block</title>
+		<description>
+			 <![CDATA[
+				<div class="row">
+				<div class=" col-lg-6 col-md-12 col-xs-12 box1">
+				<div class="copyright ">Copyright @ 2020 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</div>
+				</div>
+				<div class="col-lg-6 col-md-12 col-xs-12 box2">
+				<div class="paypen"><a href="#"> <img src="/pos_boxstore/img/cms/paypen.png" alt="" class="img-responsive" /> </a></div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>static1 footer</title>
+		<description>
+			 <![CDATA[
+				<div class="link">
+				<h3>Follow Us</h3>
+				<ul class="link-follow">
+				<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/posthemes"><span>twitter</span></a></li>
+				<li><a class="wifi fa fa-rss" title="Google" href="#"><span>wifi</span></a></li>
+				<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google</span></a></li>
+				<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/posthemes"><span>facebook</span></a></li>
+				<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/posthemes"><span>youtube </span></a></li>
+				<li><a class="instagram fa fa-instagram" title="Youtube" href="#"><span>instagram </span></a></li>
+				</ul>
+				<div class="App_google">
+				<h3>Download Apps</h3>
+				<div class="goole"><img src="/pos_boxstore/img/cms/google.png" alt="" class="img-responsive" /></div>
+				<div class="app"><img src="/pos_boxstore/img/cms/appstore.png" alt="" class="img-responsive" /></div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock Link Footer</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-link">
+				<div class="row">
+				<div class="col col-sm-6 col-xs-12 box1">
+				<div class="ullink links1"><span>Computer:</span> <a href="#">Laptops,</a> <a href="#">Television & Video,</a> <a href="#">Macbook & PC, </a> <a href="#">Computers Accessories,</a> <a href="#">Sony,</a> <a href="#">Subway,</a> <a href="#">Tempor,</a> <a href="#">Tissot,</a> <a href="#">Topper.</a></div>
+				<div class="ullink links2"><span>TVs, Audio & Video:</span> <a href="#">Televisions,</a> <a href="#">Smart Television</a> <a href="#">Samsung Television</a> <a href="#">Headphone,</a> <a href="#">HD,</a> <a href="#">Computers,</a> <a href="#">Dell Laptop,</a> <a href="#">Asus Laptop,</a> <a href="#">HP Laptop.</a></div>
+				<div class="ullink links3"><span>Tablets:</span> <a href="#">Apple iPads,</a> <a href="#">Samsung Tablet,</a> <a href="#">Samsung Television</a> <a href="#">Swipe Tablets,</a> <a href="#"> Asus Tablets,</a> <a href="#">Lenovo Tablet,</a> <a href="#">Calling Tablets,</a> <a href="#">Asus Laptop,</a> <a href="#">iBall Tablets.</a></div>
+				<div class="ullink links4"><span>Smartphone:</span> <a href="#">HTC Mobiles,</a> <a href="#">iPhones,</a> <a href="#"> Gionee Mobiles,</a> <a href="#">LG Mobiles,</a> <a href="#"> Karbonn Mobiles,</a> <a href="#">Vivo Mobiles,</a> <a href="#">Intex Mobiles,</a> <a href="#">Asus Mobiles,</a> <a href="#"> Samsung Mobiles.</a></div>
+				</div>
+				<div class="col col-sm-6 col-xs-12 box2">
+				<div class="ullink links1"><span>Camaeras:</span> <a href="#">SLR Cameras,</a> <a href="#">Canon Cameras,</a> <a href="#">Apple Cameras, </a> <a href="#">Nikon DSLR Cameras,</a> <a href="#">Sony Cameras,</a> <a href="#">Digital Cameras,</a> <a href="#">Panasonic Cameras,</a> <a href="#">Samsung Cameras.</a></div>
+				<div class="ullink links2"><span>Whatches:</span> <a href="#">Mens Watches,</a> <a href="#">Casio Watches,</a> <a href="#">Titan Watches,</a> <a href="#">Fastrack ,</a> <a href="#">Watches,</a> <a href="#">Fossil watches,</a> <a href="#">Casio Edifice,</a> <a href="#">Sissot Watches.</a></div>
+				<div class="ullink links3"><span>Appliances:</span> <a href="#"> Air Conditioners,</a> <a href="#">Air Coolers, Refrigerators,</a> <a href="#">Fans,</a> <a href="#">Washing Machines,</a> <a href="#">Inverters & Stabilizers,</a> <a href="#">Mircowaves,</a> <a href="#">Irons,</a> <a href="#">Irons,</a> <a href="#">Shavers.</a></div>
+				<div class="ullink links4"><span>Mobiles Accessories:</span> <a href="#">Mobile Covers,</a> <a href="#">Power Banks,</a> <a href="#">Samsung Power Banks,</a> <a href="#">Micromax Power Banks,</a> <a href="#">Asus Power Banks,</a> <a href="#">Micromax Power Banks,</a> <a href="#">Asus Power Banks.</a></div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

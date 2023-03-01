@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'admin_caddam',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'HHxaAx0NDHCIWLwkrOXxbrwvwesqDX6c2LM0SUBKj3jBfwyRZhI3HI4i',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-06-04',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'dyt2tFLcpOQL8PjC5Mc6w4KjALAGw61QnWjwmKY1o4gj7I9JqGkF4T7L',
+    'cookie_iv' => 'SVtKRZYg',
+    'new_cookie_key' => 'def0000093dfaaa5ec10d94afbd557c4aab4d3774abba9c9d30a1c537bf784d132b212d175f3694ba7a71c7a20f6947fe24bade7535292600f3db870cb80d7eac4bcbe11',
+  ),
+);

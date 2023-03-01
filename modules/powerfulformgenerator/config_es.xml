@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>powerfulformgenerator</name>
+	<displayName><![CDATA[Powerful Form Generator]]></displayName>
+	<version><![CDATA[2.6.8]]></version>
+	<description><![CDATA[Crear varias formas gen&eacute;ricas, el camino m&aacute;s f&aacute;cil.]]></description>
+	<author><![CDATA[Cyril Nicodeme]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<confirmUninstall><![CDATA[¿Está seguro que desea desinstalar?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
