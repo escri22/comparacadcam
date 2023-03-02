@@ -28,7 +28,7 @@
 	<div class="footer-top">
 		<div class="container">
 			<div class="row">
-				<div class="col col-lg-8 col-md-12 col-xs-12 box-footer">
+				<div class="col col-lg-8 col-md-12 col-xs-12 box-footer in">
 					{block name='hook_footer'}
 						{hook h='displayFooter'}
 					{/block}
